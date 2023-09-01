@@ -1,0 +1,27 @@
+accent: "#ffffff"
+background: "#17191a"
+details: darker
+foreground: "#ffffff"
+background_image:
+  path: flare/flare.jpg
+  opacity: 80
+  
+terminal_colors:
+  bright:
+    black: "#7f8c8d"
+    blue: "#3daee9"
+    cyan: "#16a085"
+    green: "#1cdc9a"
+    magenta: "#8e44ad"
+    red: "#c0392b"
+    white: "#ffffff"
+    yellow: "#fdbc4b"
+  normal:
+    black: "#17191a"
+    blue: "#9b59b6"
+    cyan: "#ffffff"
+    green: "#6fca4c"
+    magenta: "#9b59b6"
+    red: "#da0000"
+    white: "#fcfcfc"
+    yellow: "#ffa200"
