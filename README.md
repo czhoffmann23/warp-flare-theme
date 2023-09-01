@@ -5,11 +5,11 @@
 
 # :wrench: Setup
 
-1. Open a new terminal and use the next command: cd ~/.warp/ 
-2. Open the directory with command open .
-3. Create a new themes folder
-3. Inside of themes folder create a new flare-theme folder
-4. Paste files flare.yml and flare.jpg inside of flare-theme folder
+1. Open a new terminal and use the next command: ```cd ~/.warp/``` 
+2. Open the directory with command ```open .```
+3. Create a new ```themes``` folder
+3. Inside of ```themes``` folder create a new ```flare-theme``` folder
+4. Paste files ```flare.yml``` and ```flare.jpg``` inside of ```flare-theme``` folder
 5. [Theme Warp Documentation](https://docs.warp.dev/appearance/custom-themes)
 
 🚀 Finally, just go to your settings>appearance and choose your new theme
